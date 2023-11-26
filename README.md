@@ -1,14 +1,14 @@
-<h1 align="center">Hello World, I'm Russell👋</h1>
+<h1 align="center">Hello World, I'm Russell👋🏻</h1>
 <h3 align="center">Software Architect Specialist Student from Italy</h3>
 <img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47p8q7qwog45b2ud6y98cz6h5rv7hfaiyb8a3ry6fv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning about **Web and Mobile Software Development.**
 
-- 👨‍💻 Checkout my portfolio at [https://google.com](https://google.com)
+- 💻 Checkout my portfolio at [https://google.com](https://google.com)
 
-- 💬 Ask me about **JDM**
+- 📷 Hobbies: **Photography & Travelling**
 
-- ⚡ Fun fact I am a **CSS Developer**
+- ⚡ Fun facts are that I love **Sleeping & Eating**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

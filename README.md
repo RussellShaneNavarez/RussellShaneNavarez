@@ -2,7 +2,7 @@
 <h3 align="center">Software Architect Specialist Student from Italy</h3>
 <img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47p8q7qwog45b2ud6y98cz6h5rv7hfaiyb8a3ry6fv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning about **Web and Mobile Software Development.**
+- 🌱 I’m continuously learning about **Web and Mobile Software Development.**
 
 - 💻 Checkout my portfolio at [https://google.com](https://google.com)
 

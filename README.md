@@ -17,4 +17,4 @@
 
 ### Language & Tools
 
-![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,bash,bootstrap,c,cs,cpp,html,css,js,docker,dotnet,figma,firebase,git,github,gradle,java,jquery,linux,maven,mongodb,mysql,py,react,redux,remix,spring,sqlite,supabase,tailwind,ts,vim,vite,vue)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,bash,bootstrap,c,cs,cpp,html,css,js,docker,dotnet,figma,firebase,git,github,gradle,java,jquery,linux,maven,mongodb,mysql,py,react,redux,remix,spring,sqlite,supabase,tailwind,ts,vim,vite,vue,swift)

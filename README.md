@@ -15,6 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/russell-shane-navarez/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/russnvrz/)
 
-### Language & Tools
+### Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=androidstudio,angular,bash,bootstrap,cs,html,css,js,docker,figma,firebase,git,java,linux,mongodb,mysql,notion,py,react,nextjs,typescript,spring,supabase,postman,vue,swift)
+![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,typescript,java,spring,tailwind,bootstrap,firebase,mysql,html,css,figma,git,linux)

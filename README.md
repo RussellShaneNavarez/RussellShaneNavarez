@@ -17,4 +17,4 @@
 
 ### Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,typescript,java,spring,tailwind,bootstrap,firebase,mysql,html,css,figma,git,linux)
+![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,typescript,nodejs,java,spring,tailwind,bootstrap,firebase,mysql,html,css,figma,git,linux)
